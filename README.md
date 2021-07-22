@@ -12,4 +12,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=makma&show_icons=true&theme=synthwave)
 
 Well, I have no idea why so much CSS there^, I really suck at it...
-![81d2bffd2d12c8275ab2c708b3fd5297](https://user-images.githubusercontent.com/10922372/126621131-5c54d8af-98e7-44ab-aab9-65364ef1efcb.gif)
+
+<img src="https://user-images.githubusercontent.com/10922372/126621131-5c54d8af-98e7-44ab-aab9-65364ef1efcb.gif" alt="drawing" width="300"/>
