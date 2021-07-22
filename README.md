@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Martin, Developer Advocate at [FingerprintJS](https://fingerprintjs.com/) during day. At nights, Iʼm hacking at first glance incompatible pieces into (wannabe) meaningful structures
 
-![10922372 (1)](https://user-images.githubusercontent.com/10922372/126621751-16fdac7e-c615-47ea-a31c-1174111bc31d.jpg)
-
-
 - 🔭 I’m currently working on [FingerprintJS](https://github.com/fingerprintjs)
 - 🌱 I’m currently learning (lol currently...) JavaScript, browsers, security, and fraud detection
 - 👯 I’m looking to collaborate on open source [FingerprintJS](https://github.com/makma/makma/edit/main/README.md) and all related tooling
