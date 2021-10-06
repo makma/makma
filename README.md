@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Martin, Developer Advocate at [FingerprintJS](https://fingerprintjs.com/) during day. At nights, Iʼm hacking at first glance incompatible pieces into (wannabe) meaningful structures
+### Hi there 👋, I'm Martin, Developer Advocate at [FingerprintJS](https://fingerprintjs.com/) during day. At night, Iʼm hacking at first glance incompatible pieces into (wannabe) meaningful structures
 
 - 🔭 I’m currently working on [FingerprintJS](https://github.com/fingerprintjs)
 - 🌱 I’m currently learning (lol currently...) JavaScript, browsers, security, and fraud detection
